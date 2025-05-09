@@ -35,7 +35,6 @@ Before running the code, make sure you have the following:
 Install via:
 ```bash
 pip install -r requirements.txt
-pip install json, pymongo, certifi, openai, argparse, builtins
 ```
 
 ---
