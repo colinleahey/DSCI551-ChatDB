@@ -12,7 +12,7 @@ def run_sql_interface():
 
 def run_mongo_interface():
     from mongo_client.py import get_database
-    from translator import translate_nl_to_code
+    from translator.py import translate_nl_to_code
 
     print("\nYou are now connected to the MongoDB interface.")
     db = get_database()
