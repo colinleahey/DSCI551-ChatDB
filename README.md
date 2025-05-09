@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔐 API Key Setup
+## 🔐 API Key / DB Setup
 
 1. Create a `.env` file in the root directory:
 ```
