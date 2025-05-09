@@ -2,3 +2,9 @@ mysql-connector-python
 openai
 pandas
 python-dotenv
+json
+pymongo
+certifi
+openai
+argparse
+builtins
