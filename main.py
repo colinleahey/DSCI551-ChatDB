@@ -11,7 +11,7 @@ def run_sql_interface():
         print("\nResult:\n", result)
 
 def run_mongo_interface():
-    from mongoMain.py import get_database
+    from mongo_client.py import get_database
     from translator import translate_nl_to_code
 
     print("\nYou are now connected to the MongoDB interface.")
